@@ -1,0 +1,70 @@
+html {
+    background: #4e5d6c;
+    height: 100%;
+}
+
+body {
+    margin: auto;
+    min-height: 100%;
+}
+
+#main-area {
+    background: #44515E;
+    padding: 2%;
+    margin: 2% auto;
+    border-radius: 5px;
+}
+
+legend {
+    margin-bottom: 1.5%;
+}
+
+fieldset {
+    margin-top: 2%;
+}
+
+label {
+    font-size: small;
+}
+
+input {
+    margin-bottom: 1%;
+}
+
+.entry-listing {
+    background: #4D5C6B;
+    padding: 0.5% 1%;
+    margin: 1% 0;
+    border-radius: 5px;
+}
+
+.post-thumb {
+    margin: 5% 0;
+}
+
+.post-image {
+    margin: 2% 0;
+}
+
+.comment {
+    background: #4D5C6B;
+    padding: 1%;
+    margin: 1% 0;
+    border-radius: 5px;
+}
+
+.success {
+    padding: 0.75%;
+    margin: 1% 0;
+    border-radius: 5px;
+}
+
+.error {
+    padding: 0.75%;
+    margin: 1% 0;
+    border-radius: 5px;
+}
+
+.no-padding {
+    padding: 0;
+}
